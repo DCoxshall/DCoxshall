@@ -1,6 +1,6 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dcoxshall&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dcoxshall" />
 </a>
 
 - 🔭 I’m currently working on Advent Of Code, ran by Eric Wastl
