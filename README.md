@@ -1,4 +1,6 @@
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcoxshall&theme=dark)](https://github.com/dcoxshall/github-readme-stats)
+</div>
 
 - 🔭 I’m currently working on Advent Of Code, ran by Eric Wastl
 - 🌱 I’m currently learning React.js
