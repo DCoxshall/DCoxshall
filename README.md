@@ -3,6 +3,6 @@
 
 - I’m currently working on Advent Of Code, ran by Eric Wastl
 - I’m currently learning React.js
-- How to reach me: dacoxshall@gmail.com, carrier pigeon
+- How to reach me: carrier pigeon would be ideal, although I do also respond to emails: dacoxshall@gmail.com
 - Pronouns: he/him
 
